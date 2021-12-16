@@ -1,6 +1,9 @@
 # AngularMovies
 Web app to browse, find movies and actors.
 
+
+
+
 Movie info panel with movie theaters localization
 
 ![aboutmovie](https://user-images.githubusercontent.com/47595623/146446480-b0f71a79-7f26-4a76-853f-d0b7660618c4.png)
